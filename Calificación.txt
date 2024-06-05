@@ -1,0 +1,4 @@
+Calificación: 2/3
+
+Debe incluir los enunciados de los ejercicios.
+Use el archivo .gitignore para evitar subir los archivos .exe
